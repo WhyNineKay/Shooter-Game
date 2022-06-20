@@ -1,0 +1,16 @@
+Utility/entities.py
+	class Bullet:
+		delta time not working
+
+Utility/entities.py
+	class Player:
+		in update function, movement is different for different fps
+		(delta time not working)
+
+
+Utility/explosions.py
+	basically everything
+		in update functions
+		movement is different for different fps
+		(delta time not working)
+
